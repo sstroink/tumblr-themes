@@ -1,8 +1,2 @@
-# shopify-FrontEndChallenge
-# shopify-FrontEndChallenge
 # tumblr-themes
-# tumblr-themes
-# tumblr-themes
-# tumblr-themes
-# tumblr-themes
-# tumblr-themes
+just trying out some tutorials to make tumblr-themes
